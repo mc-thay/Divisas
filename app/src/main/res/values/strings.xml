@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P1A lab3</string>
+    <string-array name="conversion_types">
+        <item>De Soles a Dólares</item>
+        <item>De Dólares a Soles</item>
+    </string-array>
+</resources>
